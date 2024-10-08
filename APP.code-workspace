@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Users/hp/Documents/APP"
+		},
+		{
+			"path": "../Users/hp/Desktop/python_course"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "APP"
+	}
+}
